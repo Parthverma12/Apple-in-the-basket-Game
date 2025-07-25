@@ -1,2 +1,14 @@
-# Apple-in-the-basket-Game
-It is a game where you have to pick an apple from the basket (max-4,min-1).Interesting part of this game is that you can't win this game.It is Based on C language.
+# Apple Basket Game 🍎
+
+A simple terminal-based apple basket game written in C.
+
+## How to Play
+- You must pick apples from a basket
+- Min pick = 1, Max = 4
+- Last apple = You lose 😄
+
+## Requirements
+- Dev C++ / GCC Compiler
+
+## How to Compile
+Use Dev C++ or command line:
